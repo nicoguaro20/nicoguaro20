@@ -1,9 +1,7 @@
 # 👋 ¡Hola! Soy Juan Nicolás García
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/nicoguaro20/nicoguaro20/main/assets/rgb-line.svg" width="100%" height="5">
 </p>
-
 
 ## También conocido como **nicoguaro20 en GitHub**
 
