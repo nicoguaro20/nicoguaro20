@@ -55,13 +55,23 @@ Estas son algunas de las principales tecnologías que manejo:
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/juannicolasing" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" style="border-radius: 8px;" />
-  </a>
-  <a href="mailto:jungarciagu@unal.edu.co">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" style="border-radius: 8px;" />
-  </a>
-  <a href="https://wa.me/573224129745" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" style="border-radius: 8px;" />
-  </a>
+  <span style="display: inline-block; min-width: 500px; height: 50px;">
+    <a href="https://www.linkedin.com/in/juannicolasing" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
+    </a>
+  </span>
+  <span style="display: inline-block; min-width: 500px; height: 50px;">
+    <a href="mailto:jungarciagu@unal.edu.co">
+      <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" />
+    </a>
+  </span>
+  <span style="display: inline-block; min-width: 500px; height: 50px;">
+    <a href="https://wa.me/573224129745" target="_blank">
+      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    </a>
+  </span>
 </p>
+
+
+
+
